@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá!! 👋 Eu sou o Daniel
 
-<!--
-**Daniel-S-Oliveira-DeV/Daniel-S-Oliveira-DeV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+E sou estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática. Atuo na intersecção entre infraestrutura e desenvolvimento, gostando de entender desde a configuração de um Windows Server ou terminal Ubuntu até a lógica estruturada por trás do código.
 
-Here are some ideas to get you started:
+🚀 **O que estou fazendo agora:**
+- Desenvolvendo meus primeiros projetos e sistemas CRUD com **Java**,e variadas formas de aplicação de CRUD.
+- Aprofundando conhecimentos práticos em administração de redes, DNS, DHCP e Linux.
+- Estruturando meu Projeto de Extensão (PEX) para a conclusão do tecnólogo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Projetos em Destaque:**
+- **Sistema de Caixa Terminal:** Lógica de algoritmos e validação de dados construída no curso técnico.
+- **Validador de Notas:** Sistema lógico para cálculo estruturado.
+- **Rede LAN Educacional:** Configuração e implantação de topologia em Windows Server 2019 (Projeto Integrador - Senac).
+- *(Em breve: CRUD em Java Console)*
+
+💻 **Minhas principais tecnologias e ferramentas:**
+- **Linguagens/Lógica:** Java, Py, WordPress
+- **Infraestrutura/SO:** Linux (Ubuntu, fedora, mint), Linux Server, Windows 10,11, Windows Server
+- **Ferramentas:** Git, GitHub, VScode
+
+📫 **Como falar comigo:**
+- [Meu LinkedIn](cole-aqui-o-link-do-seu-linkedin)
