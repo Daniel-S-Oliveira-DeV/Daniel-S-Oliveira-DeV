@@ -3,8 +3,8 @@
 E sou estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática. Atuo na intersecção entre infraestrutura e desenvolvimento, gostando de entender desde a configuração de um Windows Server ou terminal Ubuntu até a lógica estruturada por trás do código.
 
 🚀 **O que estou fazendo agora:**
-- Desenvolvendo meus primeiros projetos e sistemas CRUD com **Java**,e variadas formas de aplicação de CRUD.
-- Aprofundando conhecimentos práticos em administração de redes, DNS, DHCP e Linux.
+- Desenvolvendo e aprimorando meus primeiros projetos e sistemas CRUD/PDV/ERP com **Java** e **Python**, e variadas formas de aplicação de um CRUD.
+- Aprofundando conhecimentos práticos em administração de redes, DNS, DHCP, Linux e Windowns.
 - Estruturando meu Projeto de Extensão (PEX) para a conclusão do tecnólogo.
 
 🛠️ **Projetos em Destaque:**
