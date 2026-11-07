@@ -11,7 +11,8 @@ E sou estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informá
 - **Sistema de Caixa Terminal:** Lógica de algoritmos e validação de dados construída no curso técnico.
 - **Validador de Notas:** Sistema lógico para cálculo estruturado.
 - **Rede LAN Educacional:** Configuração e implantação de topologia em Windows Server 2019 (Projeto Integrador - Senac).
-- *(Em breve: CRUD em Java Console)*
+- **Sistema CRUD** completo na linguaagem **Java** com demostração de estrutura de lógica, focado em apresentar um sistema **PDV** e um **ERP** embutidos.
+- **(Em breve: Aprimoramentos do CRUD baseado em PDV + ERP em Java Console), e em PYTHON**
 
 💻 **Minhas principais tecnologias e ferramentas:**
 - **Linguagens/Lógica:** Java, Py, WordPress
