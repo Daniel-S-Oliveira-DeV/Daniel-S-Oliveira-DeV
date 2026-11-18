@@ -29,9 +29,9 @@ Sou desenvolvedor de software e profissional de Tecnologia da Informação com b
 
 ### 🏆 Projeto em Destaque
 
-#### 🛒 [Sistema de Vendas e Controle de Estoque — ERP & PDV (White-Label)](https://github.com/daniel-souza-de-oliveira)
-> Sistema comercial Desktop 100% offline desenvolvido em **Java 21, JavaFX, SQLite e OpenPDF**, distribuído com executável nativo (`.exe` / `.jar`).
-* **Frente de Caixa (PDV) & Controle de Turno:** Abertura de caixa, sangria, suprimento, fechamento cego/assistido, estorno transacional com *rollback* de estoque (Kardex) e emissão de cupom térmico 80mm em PDF.
+#### 🛒 [Sistema de Vendas e Controle de Estoque — ERP & PDV (White-Label)](https://github.com/Daniel-S-Oliveira-DeV/Sistema-Vendas-ERP-PDV)
+> Sistema comercial Desktop 100% offline desenvolvido em **Java 21, JavaFX, SQLite e OpenPDF**, distribuído com pacote executável pronto para uso ([Baixar Versão 1.0](https://github.com/Daniel-S-Oliveira-DeV/Sistema-Vendas-ERP-PDV/releases)).
+* **Frente de Caixa (PDV) & Controle de Turno:** Abertura de caixa, sangria, suprimento, fechamento assistido, estorno transacional com *rollback* de estoque (Kardex) e emissão de cupom térmico 80mm em PDF.
 * **Gestão Financeira e Crédito:** Controle de vendas a prazo (Fiado/Caderninho) com limite de crédito por cliente, cálculo de juros e alertas automáticos de inadimplência.
 * **Inteligência de Negócios e White-Label:** Personalização completa do nome e CNPJ do estabelecimento pelo usuário final, backup 1-click e relatórios gerenciais em PDF com apuração de Custo de Mercadoria Vendida (CMV), perdas e Lucro Líquido.
 
@@ -48,6 +48,6 @@ Sou desenvolvedor de software e profissional de Tecnologia da Informação com b
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daniel-souza-de-oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-souza-de-oliveira&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Daniel-S-Oliveira-DeV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-S-Oliveira-DeV&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
