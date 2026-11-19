@@ -1,4 +1,4 @@
-# Olá! Eu sou o Daniel Souza de Oliveira 👋
+# Olá! Eu sou Daniel 👋
 
 🎓 **Análise e Desenvolvimento de Sistemas (ADS)** | 💻 **Técnico em Informática**  
 📍 Rio Branco, Acre — Brasil
