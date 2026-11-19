@@ -4,7 +4,7 @@
 
 📍 Rio Branco, Acre — Brasil
 
-Sou desenvolvedor de software e profissional de Tecnologia da Informação com base sólida tanto em **Engenharia de Software (Desktop & Backend)** quanto em **Infraestrutura de Redes, Hardware e Administração de Servidores**. Gosto de construir soluções práticas, seguras e focadas em resolver problemas reais de gestão e operação.
+Sou desenvolvedor de software e profissional de Tecnologia da Informação com base sólida tanto em **Engenharia de Software (Desktop & Backend)** quanto em **Infraestrutura de Redes, Hardware, banco de dados (SQL, SQLlite) e Administração de Servidores**. Gosto de construir soluções práticas, seguras e focadas em resolver problemas reais de gestão e operação.
 
 ---
 
